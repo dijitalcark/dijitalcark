@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Klanter </h1>
+<h1 align="center"><b>Hi , Şahin Özcan </h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Self-taught+Web+Developer,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
