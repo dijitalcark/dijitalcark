@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Şahin Özcan</h1>
-<h3 align="center">WordPress üzerine 2 yıllık bir eğitimin ardından Sertifikamı alarak iş hayatına adım attım. Eğitim zamanı boyunca referans siteler yaparak kendimi geliştirdim ve uzmanlaştım. Size kaliteli hizmet verebilmek için elimden geleni yapmaya hazırım.</h3>
+<h3 align="center">After receiving 2 years of training on WordPress, he started his business life by receiving a certificate. During the training period, I improved myself and specialized by creating reference sites. I am ready to do whatever it takes to provide you with quality service.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
